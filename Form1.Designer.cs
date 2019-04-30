@@ -200,8 +200,7 @@
             this.Controls.Add(this.Label1);
             this.Controls.Add(this.TextBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "IP Info";
             this.ResumeLayout(false);
             this.PerformLayout();
 
